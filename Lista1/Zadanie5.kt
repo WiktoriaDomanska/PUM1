@@ -5,7 +5,7 @@ fun checkArmstrong(number: Int): Boolean {
     var sum = 0
 
     for (char in strNum) {
-        var digit = char.digitToInt()
+        val digit = char.digitToInt()
 
         var resultOfPower = 1
         for (i in 1..power) {
