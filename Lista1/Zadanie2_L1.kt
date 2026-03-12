@@ -12,5 +12,5 @@ fun isPalindrome(str: String): Boolean {
 }
 
 fun main() {
-    println(isPalindrome("abba"))
+    println(isPalindrome("Abba"))
 }

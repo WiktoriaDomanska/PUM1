@@ -12,5 +12,5 @@ fun isPrime(number: Int): Boolean {
 }
 
 fun main() {
-    println(isPrime(17))
+    println(isPrime(8))
 }
